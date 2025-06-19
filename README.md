@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+HEADER
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -67,9 +67,12 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/a
 This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
 ### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-=======
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify=
 # plant-store
-(optional but helpful, e.g., "React + Redux plant shop project")
->>>>>>> 6f1201af13bc84ae9fa0f205d125333393c39dbc
+(optional but helpful, e.g., "React + Redux plant shop project")> 6f1201af13bc84ae9fa0f205d125333393c39dbc
+nano README.md
+
+# plant-store
+
+A simple React app for managing a plant store.
+
